@@ -13,6 +13,7 @@ pip install solana && pip install pandas
 For now you need to put all token id that you got from
 https://tools.abstratica.art/
 into a file named "full.txt"
+
 Will update soon to request abstratica directly
 
 Then just run
