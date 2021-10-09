@@ -1,5 +1,5 @@
 # GoodpickNFTHolder
-Get NFT holder from a token list
+Get NFT holder from a token-id list on Solana
 
 
 ## Requirement
